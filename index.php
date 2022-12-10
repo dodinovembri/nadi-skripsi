@@ -12,7 +12,7 @@
 	<meta name="author" content="dodinovembri">
 	<meta name="description" content="Jasa Pembuatan Program Skripsi">
 
-
+ 
 	<script>
 		if (top !== self) top.location.replace(self.location.href);
 	</script>
