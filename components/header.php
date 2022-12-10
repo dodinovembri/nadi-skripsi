@@ -41,7 +41,7 @@
                                 <li class="toggle-menu"><i class="fa icon_menu"></i></li>
 
                                 <li class="first">
-                                    <a href="index.php">Home</a>
+                                    <a href="index">Home</a>
                                 </li> <!-- END Home -->
                                 <li>
                                     <a href="#">Topik</a>
