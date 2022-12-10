@@ -7,10 +7,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Palas | Bootstrap Multipurpose HTML5 Template</title>
+	<title>Skripsi Program | Nadi Skripsi</title>
 
-	<meta name="author" content="shiftthemes">
-	<meta name="description" content="Palas is a Business HTML Template developed with the the latest HTML5 and CSS3 technologies.">
+	<meta name="author" content="dodinovembri">
+	<meta name="description" content="Jasa Pembuatan Program Skripsi">
 
 
 	<script>

@@ -57,7 +57,7 @@
                                 <li>
                                     <a href="#">Algoritma</a>
                                     <ul class="submenu">
-                                        <li><a href="k-means.php">K-Means</a></li>
+                                        <li><a href="k-means">K-Means</a></li>
                                         <li><a href="blog_list_large.html">List Large</a></li>
                                         <li><a href="blog_grid.html">Grid</a></li>
                                         <li><a href="blog_grid_sidebar.html">Grid Sidebar</a></li>
