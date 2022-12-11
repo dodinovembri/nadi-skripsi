@@ -96,31 +96,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="section-bg p0 section-dark data-height-fix">
-			<div class="row col-p0">
-				<div class="col-sm-6 hidden-xs">
-					<div class="box-services-d p0 bg-img bg16">
-						<div class="bg-overlay"></div>
-						<div class="set-height"></div>
-					</div>
-				</div>
-			</div>
-			<div class="section-caption">
-				<div class="container">
-					<div class="row col-p0">
-						<div class="col-sm-5 col-sm-offset-7 get-height">
-							<div class="mb50 mt50">
-								<h3 class="title-medium color-on-dark">About us</h3>
-								<div class="br-bottom mb20 color-on-dark"></div>
-								<p class="mb50 color-on-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste sunt cupiditate asperiores atque consectetur reiciendis, ex voluptate! Atque distinctio, illum minus consectetur quae explicabo eveniet dolorum voluptatum excepturi autem illo, laudantium iusto itaque vero.</p>
-								<h3 class="title-small color-on-dark"><i class="fa-style5 icon_heart_alt mr10"></i> Happy Clients</h3>
-								<p class="mb0 color-on-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis explicabo inventore, nisi sint consectetur distinctio! Asperiores totam dolorum, odio ex?</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<section class="section-bg p0 section-dark data-height-fix"></section>
 		<!-- You could remove this - It is useful only for demo purposes (Live preview) -->
 		<div id="footer_index"></div>
 		<?php include('components/footer.php') ?>
