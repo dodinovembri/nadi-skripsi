@@ -96,9 +96,6 @@
 				</div>
 			</div>
 		</section>
-		<section class="section-bg p0 section-dark data-height-fix"></section>
-		<!-- You could remove this - It is useful only for demo purposes (Live preview) -->
-		<div id="footer_index"></div>
 	</div> <!-- END Global Wrapper -->
 	<?php include('components/scripts.php') ?>
 </body>
