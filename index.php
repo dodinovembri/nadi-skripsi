@@ -30,32 +30,19 @@
 	<!-- Global Wrapper -->
 	<div id="wrapper">
 		<?php include('components/header.php') ?>
-		<!-- Do not remove this class -->
-		<div class="push-top"></div>
-		<!-- Slider -->
-		<div class="tp-banner-container rs_fullwidth">
-			<div class="tp-banner">
-				<ul>
-					<!-- SLIDE 1 -->
-					<li>
-						<!-- Background Image -->
-						<img src="assets/images/demo/bg11.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" alt="">
-						<!-- Include bg-overlay class if you want some background overlay over the image -->
-						<!-- Recomend to include it to have a dark overlay and change the opacity (op6, op4, op8 etc) so that the content inside to be visible and readalbe (text is white) -->
-						<div class="bg-overlay op6"></div>
-						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="-75" data-endeasing="" style="z-index: 4">
-							<h3 class="title-slider-small uppercased mb10">Bimbingan Skripsi Program</h3>
-						</div>
-						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="30" data-endeasing="" style="z-index: 4">
-							<h3 class="title-slider-large">All you need, <br> just one step order</h3>
-						</div>
-						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="130" data-endeasing="" style="z-index: 4">
-							<a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank" class="btn-slider">Order Now</a>
-						</div>
-					</li>
-				</ul>
+		<section class="section-bg section-larger bg-img bg11 m0 stellar" data-stellar-background-ratio="0.4">
+			<div class="bg-overlay op8"></div>
+			<div class="container">
+				<div class="row mt20 mb20">
+					<div class="col-sm-10 col-md-6 col-sm-offset-1 col-md-offset-3">
+						<h2 class="title-large mb30 text-center color-on-img title-shadow-b">Skripsi Program</h2>
+						<div class="br-bottom-center mb30"></div>
+						<p class="p-large mb40 text-center color-on-img">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod quidem ab beatae, repellendus sed quo explicabo hic dolorum at architecto.</p>
+						<div class="text-center"><a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank" class="btn-slider">Order Now</a></div>
+					</div>
+				</div>
 			</div>
-		</div> <!-- END Slider-->
+		</section>
 		<section class="section">
 			<div class="container">
 				<div class="row col-p30">
