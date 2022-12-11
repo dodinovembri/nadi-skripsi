@@ -34,20 +34,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="row">
+                        <div class="row" style="text-align: center;">
                             <div class="col-sm-12">
-                                <form method="post" action="total-price">
-									<h4><u>Silahkan pilih fitur yang diinginkan.</u></h4>
-									<input type="checkbox" name="webadmin" value="1"> Halaman Web Admin (Menggunakan Template) <br>
-									<input type="checkbox" name="webuser" value="1"> Halaman Web User/ Non-Admin (Menggunakan Template) <br>
-									<input type="checkbox" name="php" value="1"> Bahasa PHP (Framework Laravel) <br>
-									<input type="checkbox" name="php" value="1"> Bahasa PHP (Framework Codeigniter) <br>
-									<input type="checkbox" name="php" value="1"> Bahasa PHP (No Framework/ Native) <br>
-									<input type="checkbox" name="algorithm[]" value="k-means"> Algoritma K-means <br>
-									<input type="checkbox" name="algorithm[]" value="service-quality"> Algoritma Service Quality <br>
-
-									<br><button type="submit">Check Price</button>
-								</form>
+                                <?php 
+                                    $webadmin = isset($_POST['webadmin']) ? 1500000 : 0;
+                                    $webuser = isset($_POST['webuser']) ? 1500000 : 0;
+                                    $total = $webadmin + $webuser;
+                                ?>
+                                <h4>Total Price: Rp. <?php echo $total; ?></h4>
                             </div>
                         </div>
                     </div>

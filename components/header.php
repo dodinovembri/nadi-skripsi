@@ -37,7 +37,7 @@
                                 <a href="check-prices">Check Prices</a>
                             </li>
                             <li>
-                                <a href="#" class="last">Blogs</a>
+                                <a href="blogs" class="last">Blogs</a>
                             </li> <!-- END Blog -->
                         </ul>
                     </nav>
