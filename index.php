@@ -37,7 +37,7 @@
 					<div class="col-sm-10 col-md-6 col-sm-offset-1 col-md-offset-3">
 						<h2 class="title-large mb30 text-center color-on-img title-shadow-b">Skripsi Program</h2>
 						<div class="br-bottom-center mb30"></div>
-						<p class="p-large mb40 text-center color-on-img">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod quidem ab beatae, repellendus sed quo explicabo hic dolorum at architecto.</p>
+						<p class="p-large mb40 text-center color-on-img">Buat program skripsimu menjadi lebih mudah bersama Skripsi Program. Implementasi cepat dan struktur kode yang jelas serta mudah untuk dipahami.</p>
 						<div class="text-center"><a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank" class="btn-slider">Order Now</a></div>
 					</div>
 				</div>
@@ -83,6 +83,7 @@
 				</div>
 			</div>
 		</section>
+		<?php include('components/footer.php') ?>
 	</div> <!-- END Global Wrapper -->
 	<?php include('components/scripts.php') ?>
 </body>
