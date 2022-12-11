@@ -46,25 +46,21 @@
                                 <li>
                                     <a href="#">Topik</a>
                                     <ul class="submenu">
-                                        <li><a href="blog_list_small.html">Sistem Pendukung Keputusan</a></li>
-                                        <li><a href="blog_list_large.html">Knowledge Management System</a></li>
-                                        <li><a href="blog_list_large.html">Data Mining System</a></li>
-                                        <li><a href="blog_list_large.html">Service Quality System</a></li>
-                                        <li><a href="blog_list_large.html">Ecommerce System</a></li>
-                                        <li><a href="blog_list_large.html">Material Requirement Planning</a></li>
+                                        <li><a href="sistem-pendukung-keputusan">Sistem Pendukung Keputusan</a></li>
+                                        <li><a href="knowledge-management-system">Knowledge Management System</a></li>
+                                        <li><a href="data-mining-system">Data Mining System</a></li>
+                                        <li><a href="customer-relationship-management">Customer Relationship Management</a></li>
+                                        <li><a href="ecommerce-system">Ecommerce System</a></li>
+                                        <li><a href="material-requirement-planning">Material Requirement Planning</a></li>
                                     </ul>
                                 </li> <!-- END Features -->
                                 <li>
                                     <a href="#">Algoritma</a>
                                     <ul class="submenu">
                                         <li><a href="k-means">K-Means</a></li>
-                                        <li><a href="blog_list_large.html">List Large</a></li>
-                                        <li><a href="blog_grid.html">Grid</a></li>
-                                        <li><a href="blog_grid_sidebar.html">Grid Sidebar</a></li>
-                                        <li><a href="blog_masonry.html">Masonry</a></li>
-                                        <li><a href="blog_masonry_sidebar.html">Masonry Sidebar</a></li>
-                                        <li><a href="blog_post.html">Post</a></li>
-                                        <li><a href="blog_post_sidebar.html">Post Sidebar</a></li>
+                                        <li><a href="blog_list_large.html">Neural Network</a></li>
+                                        <li><a href="blog_grid.html">Service Quality</a></li>
+                                        <li><a href="blog_grid_sidebar.html">Weighted Product</a></li>                                        
                                     </ul>
                                 </li> <!-- END Pages -->
                                 <li>

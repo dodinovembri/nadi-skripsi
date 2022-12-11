@@ -12,10 +12,10 @@
 	<meta name="author" content="dodinovembri">
 	<meta name="description" content="Jasa Pembuatan Program Skripsi">
 
- 
+
 	<script>
 		if (top !== self) top.location.replace(self.location.href);
-	</script> 
+	</script>
 
 
 	<!-- CSS files -->
@@ -69,15 +69,15 @@
 
 
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="-75" data-endeasing="" style="z-index: 4">
-							<h3 class="title-slider-small uppercased mb10">create stunning websites with palas</h3>
+							<h3 class="title-slider-small uppercased mb10">Bimbingan Skripsi Program</h3>
 						</div>
 
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="30" data-endeasing="" style="z-index: 4">
-							<h2 class="title-slider-large">All you need<br> just one template</h2>
+							<h2 class="title-slider-large">Program yang kamu butuhkan<br> Tersedia di sini.</h2>
 						</div>
 
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="130" data-endeasing="" style="z-index: 4">
-							<a href="#" class="btn-slider">Order Now</a>
+							<a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20program.." target="_blank" class="btn-slider">Order Now</a>
 						</div>
 
 
@@ -94,27 +94,8 @@
 						<div class="box-services-b">
 							<div class="box-left"><i class="fa fa-style1 icon_lifesaver"></i></div>
 							<div class="box-right">
-								<h3 class="title-small">Top notch Support <a href="#" class="link-read-more">read more</a></h3>
-								<p class="mb10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid! Ipsam officiis obcaecati beatae temporibus quae!</p>
-							</div>
-						</div>
-
-						<div class="mb50"></div>
-
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_box-checked"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">Bootstrap Based <a href="#" class="link-read-more">read more</a></h3>
-								<p class="mb10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid! Ipsam officiis obcaecati beatae temporibus quae!</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-6">
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_lightbulb_alt"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">SEO Ready <a href="#" class="link-read-more">read more</a></h3>
-								<p class="mb10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid! Ipsam officiis obcaecati beatae temporibus quae!</p>
+								<h3 class="title-small">Konsultasi Sepuasnya</h3>
+								<p class="mb10">Bingung untuk merancang program? Konsultasikan aja. Konsultasi sampai kamu benar-benar memahaminya.</p>
 							</div>
 						</div>
 
@@ -123,14 +104,33 @@
 						<div class="box-services-b">
 							<div class="box-left"><i class="fa fa-style1 icon_piechart"></i></div>
 							<div class="box-right">
-								<h3 class="title-small">Working widgets <a href="#" class="link-read-more">read more</a></h3>
-								<p class="mb10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid! Ipsam officiis obcaecati beatae temporibus quae!</p>
+								<h3 class="title-small">Pengerjaan Cepat</h3>
+								<p class="mb10">Jangan cemas, dengan pengalaman yang sudah diperoleh, sudah biasa melakukan pengerjaan secara cepat. Hanya sekejap mata.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6">
+						<div class="box-services-b">
+							<div class="box-left"><i class="fa fa-style1 icon_box-checked"></i></div>
+							<div class="box-right">
+								<h3 class="title-small">Revisi Sampai Kelar</h3>
+								<p class="mb10">Kamu bakal dapat bimbingan sepuasnya sampai urusan revisi hingga kelar dan kamu ga bakal berhadapan dengan revisi lagi.</p>
+							</div>
+						</div>
+
+						<div class="mb50"></div>
+
+						<div class="box-services-b">
+							<div class="box-left"><i class="fa fa-style1 icon_lightbulb_alt"></i></div>
+							<div class="box-right">
+								<h3 class="title-small">Berpengalaman</h3>
+								<p class="mb10">Telah melalui uji klinis akan segala rintangan, cobaan, hingga kerumitan skripsi program.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</section>		
+		</section>
 
 		<section class="section-bg p0 section-dark data-height-fix">
 
@@ -163,7 +163,7 @@
 		<!-- You could remove this - It is useful only for demo purposes (Live preview) -->
 		<div id="footer_index"></div>
 
-		<?php include ('components/footer.php') ?>
+		<?php include('components/footer.php') ?>
 
 
 
