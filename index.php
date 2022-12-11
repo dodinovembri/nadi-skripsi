@@ -50,7 +50,7 @@
 							<h3 class="title-slider-large">All you need, <br> just one step order</h3>
 						</div>
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="130" data-endeasing="" style="z-index: 4">
-							<a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20program.." target="_blank" class="btn-slider">Order Now</a>
+							<a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank" class="btn-slider">Order Now</a>
 						</div>
 					</li>
 				</ul>

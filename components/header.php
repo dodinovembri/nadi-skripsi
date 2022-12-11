@@ -8,7 +8,7 @@
                         <li><a href="#">About</a></li>
                         <li><a href="#">Pricing</a></li>
                         <li><a href="#">Terms</a></li>
-                        <li><a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20program.." target="_blank">Order Now</a></li>
+                        <li><a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank">Order Now</a></li>
                     </ul>
                 </div>
                 <!-- This column is hidden on mobiles -->
