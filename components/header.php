@@ -1,5 +1,4 @@
 <div class="h-wrapper">
-
     <!-- Top Bar -->
     <div class="topbar">
         <div class="container">
@@ -24,7 +23,6 @@
             </div>
         </div>
     </div>
-
     <!-- Header -->
     <header class="header-wrapper header-transparent with-topbar">
         <div class="main-header">
@@ -39,14 +37,13 @@
                             <ul class="menu">
                                 <!-- Toggle Menu - For Mobile Devices -->
                                 <li class="toggle-menu"><i class="fa icon_menu"></i></li>
-
                                 <li class="first">
                                     <a href="/">Home</a>
-                                </li> <!-- END Home -->
+                                </li>
                                 <li>
-                                    <a href="#">Topik</a>
+                                    <a href="#">Topics</a>
                                     <ul class="submenu">
-                                        <li><a href="sistem-pendukung-keputusan">Sistem Pendukung Keputusan</a></li>
+                                        <li><a href="decision-support-system">Decision Support System</a></li>
                                         <li><a href="knowledge-management-system">Knowledge Management System</a></li>
                                         <li><a href="data-mining-system">Data Mining System</a></li>
                                         <li><a href="customer-relationship-management">Customer Relationship Management</a></li>
@@ -55,7 +52,7 @@
                                     </ul>
                                 </li> <!-- END Features -->
                                 <li>
-                                    <a href="#">Algoritma</a>
+                                    <a href="#">Algorithms</a>
                                     <ul class="submenu">
                                         <li><a href="k-means">K-Means</a></li>
                                         <li><a href="blog_list_large.html">Neural Network</a></li>
@@ -63,10 +60,12 @@
                                         <li><a href="blog_grid_sidebar.html">Weighted Product</a></li>                                        
                                     </ul>
                                 </li> <!-- END Pages -->
+                                    <li>
+                                        <a href="#">Check Prices</a>
+                                    </li>
                                 <li>
-                                    <a href="#" class="last">Blog</a>
+                                    <a href="#" class="last">Blogs</a>
                                 </li> <!-- END Blog -->
-
                             </ul>
                         </nav>
                     </div>
