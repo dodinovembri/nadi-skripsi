@@ -24,9 +24,6 @@
 </head>
 
 <body>
-	<div id="preloader">
-		<div id="status">&nbsp;</div>
-	</div>
 	<!-- Global Wrapper -->
 	<div id="wrapper">
 		<?php include('components/header.php') ?>
@@ -47,7 +44,7 @@
 							<h3 class="title-slider-small uppercased mb10">Bimbingan Skripsi Program</h3>
 						</div>
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="30" data-endeasing="" style="z-index: 4">
-							<h3 class="title-slider-large">All you need, <br> just one step order</h3>
+							<h2 class="title-slider-large">Program yang kamu butuhkan<br> Tersedia di sini.</h2>
 						</div>
 						<div class="tp-caption sfb stt" data-x="left" data-hoffset="15" data-y="center" data-voffset="130" data-endeasing="" style="z-index: 4">
 							<a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20program.." target="_blank" class="btn-slider">Order Now</a>
@@ -56,46 +53,6 @@
 				</ul>
 			</div>
 		</div> <!-- END Slider-->
-		<section class="section">
-			<div class="container">
-				<div class="row col-p30">
-					<div class="col-sm-12 col-md-6 sm-box2">
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_piechart"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">Pengerjaan Cepat</h3>
-								<p class="mb10">Jangan cemas, dengan pengalaman yang sudah diperoleh, sudah biasa melakukan pengerjaan secara cepat. Sesuai kesepakatan.</p>
-							</div>
-						</div>
-						<div class="mb50"></div>
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_lifesaver"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">Pantau Progress Secara Online</h3>
-								<p class="mb10">Progress pengerjaan bisa selalu kamu lihat secara online, jadi setiap hari kamu selalu bia lihat dan pelajari.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-6">
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_box-checked"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">Revisi Sampai Kelar</h3>
-								<p class="mb10">Kamu bakal dapat bimbingan sepuasnya sampai urusan revisi hingga kelar dan kamu ga bakal berhadapan dengan revisi lagi.</p>
-							</div>
-						</div>
-						<div class="mb50"></div>
-						<div class="box-services-b">
-							<div class="box-left"><i class="fa fa-style1 icon_lightbulb_alt"></i></div>
-							<div class="box-right">
-								<h3 class="title-small">Programmer Berpengalaman</h3>
-								<p class="mb10">Telah melalui uji klinis akan segala rintangan, cobaan, hingga kerumitan skripsi program.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
 		<section class="section-bg p0 section-dark data-height-fix">
 			<div class="row col-p0">
 				<div class="col-sm-6 hidden-xs">

@@ -61,7 +61,7 @@
                                     </ul>
                                 </li> <!-- END Pages -->
                                     <li>
-                                        <a href="#">Check Prices</a>
+                                        <a href="check-prices">Check Prices</a>
                                     </li>
                                 <li>
                                     <a href="#" class="last">Blogs</a>
