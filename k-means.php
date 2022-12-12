@@ -21,6 +21,24 @@
     <link rel="stylesheet" href="./assets/css/void.css" id="_include_owl_carousel">
     <!-- Main CSS file -->
     <link rel="stylesheet" href="./assets/css/style.css">
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
 </head>
 
 <body>
@@ -37,11 +55,58 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <article class="blog-post-content">
-                                    <p class="blog-post-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, ipsum, optio, impedit, adipisci quis sare recusandae nostrum laboriosam mollitia dolorem ah corporis dolore repellat magnam voluptates laborum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, soluta praesentium ex aperiam deleniti iste recusandae? Non, autem nulla pariatur itaque harum quia quo in accusantium quisquam blanditiis nemo eveniet impedit iure nostrum!</p>
+                                    <h3 style="text-align: center;"><b>Perhitungan K Means Clustering</b></h3>
 
-                                    <h3 class="blog-post-title">Getting Started</h3>
+                                    <h3 class="blog-post-title"><b>Penentuan Pusat Awal Cluster</b></h3>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eos, quam possimus quis id alias dolor laborum incidunt atque dignissimos ea reprehenderit ab. Maiores, praesentium, magnam, distinctio, pariatur repellendus dolore nostrum non voluptatem minus tempora modi voluptatibus voluptas cupiditate optio tempore facilis et consequuntur incidunt nam dolores mollitia explicabo veniam provident suscipit debitis alias assumenda maxime placeat vero asperiores atque sed laborum adipisci. Dolor ipsum quidem et ipsam expedita. Asperiores, blanditiis, adipisci ut corrupti sint deleniti fugiat ea quam vitae quia tempore laudantium. Nulla, quas, quae, obcaecati cum ea optio ipsum eius fugiat aliquid.</p>
+                                    <p style="margin-left: 25px; margin-right: 25px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eos, quam possimus quis id alias dolor laborum incidunt atque dignissimos ea reprehenderit ab. Maiores, praesentium, magnam, distinctio, pariatur repellendus dolore nostrum non voluptatem minus tempora modi voluptatibus voluptas cupiditate optio tempore facilis et consequuntur incidunt nam dolores mollitia explicabo veniam provident suscipit debitis alias assumenda maxime placeat vero asperiores atque sed laborum adipisci. Dolor ipsum quidem et ipsam expedita. Asperiores, blanditiis, adipisci ut corrupti sint deleniti fugiat ea quam vitae quia tempore laudantium. Nulla, quas, quae, obcaecati cum ea optio ipsum eius fugiat aliquid.</p>
+                                    <div style="overflow-x:auto; margin-left: 25px; margin-right: 25px;">
+                                        <table>
+                                            <tr>
+                                                <th>Nama</th>
+                                                <th>Jenis Kelamin</th>
+                                                <th>Umur</th>
+                                            </tr>
+                                            <tr>
+                                                <td>Maria Anders</td>
+                                                <td>Laki-Laki</td>
+                                                <td>14</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Francisco Chang</td>
+                                                <td>Laki-Laki</td>
+                                                <td>18</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Roland Mendel</td>
+                                                <td>Laki-Laki</td>
+                                                <td>38</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Helen Bennett</td>
+                                                <td>Perempuan</td>
+                                                <td>34</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Yoshi Tannamuri</td>
+                                                <td>Perempuan</td>
+                                                <td>29</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Giovanni Rovelli</td>
+                                                <td>Perempuan</td>
+                                                <td>27</td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br>
+                                    <h3 class="blog-post-title"><b>Perhitungan Jarak Pusat Cluster</b></h3>
+
+                                    <p style="margin-left: 25px; margin-right: 25px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eos, quam possimus quis id alias dolor laborum incidunt atque dignissimos ea reprehenderit ab. Maiores, praesentium, magnam, distinctio, pariatur repellendus dolore nostrum non voluptatem minus tempora modi voluptatibus voluptas cupiditate optio tempore facilis et consequuntur incidunt nam dolores mollitia explicabo veniam provident suscipit debitis alias assumenda maxime placeat vero asperiores atque sed laborum adipisci. Dolor ipsum quidem et ipsam expedita. Asperiores, blanditiis, adipisci ut corrupti sint deleniti fugiat ea quam vitae quia tempore laudantium. Nulla, quas, quae, obcaecati cum ea optio ipsum eius fugiat aliquid.</p>
+
+                                    <h3 class="blog-post-title"><b>Pengelompokan Data</b></h3>
+
+                                    <p style="margin-left: 25px; margin-right: 25px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eos, quam possimus quis id alias dolor laborum incidunt atque dignissimos ea reprehenderit ab. Maiores, praesentium, magnam, distinctio, pariatur repellendus dolore nostrum non voluptatem minus tempora modi voluptatibus voluptas cupiditate optio tempore facilis et consequuntur incidunt nam dolores mollitia explicabo veniam provident suscipit debitis alias assumenda maxime placeat vero asperiores atque sed laborum adipisci. Dolor ipsum quidem et ipsam expedita. Asperiores, blanditiis, adipisci ut corrupti sint deleniti fugiat ea quam vitae quia tempore laudantium. Nulla, quas, quae, obcaecati cum ea optio ipsum eius fugiat aliquid.</p>
 
                                     <div class="row mb40 mt40">
                                         <div class="col-sm-6">
