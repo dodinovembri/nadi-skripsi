@@ -76,7 +76,8 @@
                                     // get last total
                                     $total = $total + $total_stack;
                                 ?>
-                                <h4>Total Price: Rp. <?php echo $total; ?></h4>
+                                <h4>Total Price: Rp. <?php echo number_format($total,2,',','.'); ?></h4>
+                                <a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank" class="btn"><u>Order Now</u></a>
                             </div>
                         </div>
                     </div>

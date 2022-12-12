@@ -38,15 +38,15 @@
                             <div class="col-sm-12">
                                 <form method="post" action="total-price">
 									<h4><u>Silahkan pilih fitur yang diinginkan.</u></h4>
-									<input type="checkbox" name="webadmin" value="1"> Halaman Web Admin (Menggunakan Template) <br>
-									<input type="checkbox" name="webuser" value="1"> Halaman Web User/ Non-Admin (Menggunakan Template) <br>
-									<input type="checkbox" name="laravel" value="1"> Bahasa PHP (Framework Laravel) <br>
-									<input type="checkbox" name="codeigniter" value="1"> Bahasa PHP (Framework Codeigniter) <br>
-									<input type="checkbox" name="native" value="1"> Bahasa PHP (No Framework/ Native) <br>
-									<input type="checkbox" name="algorithm[]" value="k-means"> Algoritma K-means <br>
-									<input type="checkbox" name="algorithm[]" value="service-quality"> Algoritma Service Quality <br>
-									<input type="checkbox" name="algorithm[]" value="neural-network"> Algoritma Neural Network <br>
-									<input type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
+									<input style="margin-left: 25px;" type="checkbox" name="webadmin" value="1"> Halaman Web Admin (Menggunakan Template) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="webuser" value="1"> Halaman Web User/ Non-Admin (Menggunakan Template) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="laravel" value="1"> Bahasa PHP (Framework Laravel) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="codeigniter" value="1"> Bahasa PHP (Framework Codeigniter) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="native" value="1"> Bahasa PHP (No Framework/ Native) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="k-means"> Algoritma K-means <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="service-quality"> Algoritma Service Quality <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="neural-network"> Algoritma Neural Network <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
 
 									<br><button type="submit">Check Price</button>
 								</form>
