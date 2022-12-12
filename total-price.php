@@ -42,8 +42,10 @@
                                     $webuser = isset($_POST['webuser']) ? 1000000 : 0;
                                     if ($webadmin > 0 && $webuser > 0) {
                                         $total_web = 1200000;
-                                    }else{
+                                    }elseif ($webadmin > 0 && $webuser == 0 || $webadmin == 0 && $webuser > 0){
                                         $total_web = 1000000;
+                                    }else{
+                                        $total_web = 0;
                                     }
                                     
                                     // get total stack code
