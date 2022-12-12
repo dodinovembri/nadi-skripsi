@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-2">
-                    <a href="index" class="logo"></a>
+                    <a href="/" class="logo"></a>
                 </div>
                 <div class="col-sm-12 col-md-10">
                     <nav class="navbar-right">
@@ -11,7 +11,7 @@
                             <!-- Toggle Menu - For Mobile Devices -->
                             <li class="toggle-menu"><i class="fa icon_menu"></i></li>
                             <li class="first">
-                                <a href="index">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>
                                 <a href="#">Topics</a>
