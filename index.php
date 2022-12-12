@@ -59,7 +59,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_lifesaver"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Pantau Progress Secara Online</h3>
-								<p class="mb10">Progress pengerjaan bisa selalu kamu lihat secara online, jadi setiap hari kamu selalu bia lihat dan pelajari.</p>
+								<p class="mb10">Progress pengerjaan bisa selalu kamu lihat secara online, jadi setiap hari kamu selalu bisa lihat dan pelajari.</p>
 							</div>
 						</div>
 					</div>
