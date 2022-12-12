@@ -48,6 +48,7 @@
                 </div>
             </div>
         </section>
+        <?php include('components/footer.php') ?>
     </div> <!-- END Global Wrapper -->
     <?php include('components/scripts.php') ?>
 </body>

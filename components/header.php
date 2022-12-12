@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-2">
-                    <a href="index-2.html" class="logo"></a>
+                    <a href="index" class="logo"></a>
                 </div>
                 <div class="col-sm-12 col-md-10">
                     <nav class="navbar-right">
@@ -11,7 +11,7 @@
                             <!-- Toggle Menu - For Mobile Devices -->
                             <li class="toggle-menu"><i class="fa icon_menu"></i></li>
                             <li class="first">
-                                <a href="/">Home</a>
+                                <a href="index">Home</a>
                             </li>
                             <li>
                                 <a href="#">Topics</a>
@@ -28,9 +28,9 @@
                                 <a href="#">Algorithms</a>
                                 <ul class="submenu">
                                     <li><a href="k-means">K-Means</a></li>
-                                    <li><a href="blog_list_large.html">Neural Network</a></li>
-                                    <li><a href="blog_grid.html">Service Quality</a></li>
-                                    <li><a href="blog_grid_sidebar.html">Weighted Product</a></li>
+                                    <li><a href="neural-network">Neural Network</a></li>
+                                    <li><a href="service-quality">Service Quality</a></li>
+                                    <li><a href="weighted-product">Weighted Product</a></li>
                                 </ul>
                             </li> <!-- END Pages -->
                             <li>
