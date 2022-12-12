@@ -28,9 +28,13 @@
                                 <a href="#">Algorithms</a>
                                 <ul class="submenu">
                                     <li><a href="k-means">K-Means</a></li>
-                                    <li><a href="neural-network">Neural Network</a></li>
+                                    <li><a href="backpropagation">Backpropagation</a></li>
                                     <li><a href="service-quality">Service Quality</a></li>
                                     <li><a href="weighted-product">Weighted Product</a></li>
+                                    <li><a href="simple-additive-weighting">Simple Additive Weighting</a></li>
+                                    <li><a href="smarter">SMARTER</a></li>
+                                    <li><a href="topsis">TOPSIS</a></li>
+                                    <li><a href="weighted-moving-average">Weighted Moving Average</a></li>
                                 </ul>
                             </li> <!-- END Pages -->
                             <li>

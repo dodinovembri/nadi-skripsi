@@ -43,10 +43,15 @@
 									<input style="margin-left: 25px;" type="checkbox" name="laravel" value="1"> Bahasa PHP (Framework Laravel) <br>
 									<input style="margin-left: 25px;" type="checkbox" name="codeigniter" value="1"> Bahasa PHP (Framework Codeigniter) <br>
 									<input style="margin-left: 25px;" type="checkbox" name="native" value="1"> Bahasa PHP (No Framework/ Native) <br>
+									<input style="margin-left: 25px;" type="checkbox" name="python" value="1"> Bahasa Python (No Framework/ Native) <br>
 									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="k-means"> Algoritma K-means <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="neural-network"> Algoritma Backpropagation <br>
 									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="service-quality"> Algoritma Service Quality <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="neural-network"> Algoritma Neural Network <br>
 									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma SMARTER <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma TOPSIS <br>
+									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Moving Average <br>
 
 									<br><button type="submit">Check Price</button>
 								</form>
