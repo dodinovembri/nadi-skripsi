@@ -37,9 +37,44 @@
                         <div class="row" style="text-align: center;">
                             <div class="col-sm-12">
                                 <?php 
-                                    $webadmin = isset($_POST['webadmin']) ? 1500000 : 0;
-                                    $webuser = isset($_POST['webuser']) ? 1500000 : 0;
-                                    $total = $webadmin + $webuser;
+                                    // get total web
+                                    $webadmin = isset($_POST['webadmin']) ? 1000000 : 0;
+                                    $webuser = isset($_POST['webuser']) ? 1000000 : 0;
+                                    if ($webadmin > 0 && $webuser > 0) {
+                                        $total_web = 1200000;
+                                    }else{
+                                        $total_web = 1000000;
+                                    }
+                                    
+                                    // get total stack code
+                                    $laravel = isset($_POST['laravel']) ? 200000 : 0;
+                                    $codeigniter = isset($_POST['codeigniter']) ? 250000 : 0;
+                                    $native = isset($_POST['native']) ? 350000 : 0;
+
+                                    $total_stack = $laravel + $codeigniter + $native;
+                                    
+                                    // get total web + algorihtm
+                                    $total_algorithm = empty($_POST['algorithm']) ? 0 : count($_POST['algorithm']);
+                                    if ($total_algorithm == 0) {
+                                        $total = $total_web + $total_stack;
+                                    }elseif ($total_algorithm == 1) {
+                                        $algorithm = $total_algorithm * 1500000;
+                                        if ($total_web == 1200000) {
+                                            $total = $algorithm;
+                                        }else{
+                                            $total = $algorithm - 200000;
+                                        }
+                                    }elseif ($total_algorithm > 1) {
+                                        $algorithm = $total_algorithm * 1250000;
+                                        if ($total_web == 1200000) {
+                                            $total = $algorithm;
+                                        }else{
+                                            $total = $algorithm - 200000;
+                                        }
+                                    }
+                                    
+                                    // get last total
+                                    $total = $total + $total_stack;
                                 ?>
                                 <h4>Total Price: Rp. <?php echo $total; ?></h4>
                             </div>
