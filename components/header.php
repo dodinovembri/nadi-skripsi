@@ -41,10 +41,13 @@
                                 <a href="check-prices">Check Prices</a>
                             </li>
                             <li>
-                                <a href="blogs">Blogs</a>
+                                <a href="workflow">Workflow</a>
                             </li> <!-- END Blog -->
                             <li>
-                                <a href="workflow" class="last">Workflow</a>
+                                <a href="blogs">Blogs</a>
+                            </li> <!-- END Blog -->
+                            <li class="last">
+                                <a href="about">About</a>
                             </li> <!-- END Blog -->
                         </ul>
                     </nav>
