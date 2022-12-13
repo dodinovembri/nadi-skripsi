@@ -30,82 +30,21 @@
     <!-- Global Wrapper -->
     <div id="wrapper">
         <?php include('components/header.php') ?>
-        <section class="section-page">
+        <section class="section mt30">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div id="portfolio-isotope">
-                            <div class="row">
-                                <div class="portfolio portfolio-fit-row">
-                                    <div class="col-sm-6 col-md-4 el">
-                                        <div class="blog-item">
-                                            <div class="blog-image">
-                                                <img src="images/demo/p10.jpg" alt="blog post">
-                                            </div>
-                                            <div class="blog-caption">
-                                                <h3 class="post-title">Above and beyond</h3>
-                                                <div class="sub-post-title">
-                                                    <span>by <a href="#">John Doe</a></span> <span class="separator"> / </span> <span>15 March, 2015</span>
-                                                </div>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, ipsum, optio, impedit, adipisci quis sare recusandae nostrum laboriosam mollitia dolorem!</p>
-                                                <div class="clearfix">
-                                                    <div class="pull-left"><a href="blog_post_sidebar.html" class="read-more">read more</a></div>
-                                                    <div class="pull-right"><i class="fa fa-camera post-format"></i></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> <!-- END Blog Item -->
-                                    <div class="col-sm-6 col-md-4 el">
-                                        <div class="blog-item">
-                                            <div class="blog-image">
-                                                <iframe class="rs-video video-4by3" src="https://www.youtube.com/embed/YE7VzlLtp-4" frameborder="0" allowfullscreen></iframe>
-                                            </div>
-                                            <div class="blog-caption">
-                                                <h3 class="post-title">Imagine Dragons</h3>
-                                                <div class="sub-post-title">
-                                                    <span>by <a href="#">John Doe</a></span> <span class="separator"> / </span> <span>15 March, 2015</span>
-                                                </div>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, ipsum, optio, impedit, adipisci quis sare recusandae nostrum laboriosam mollitia dolorem!</p>
-                                                <div class="clearfix">
-                                                    <div class="pull-left"><a href="blog_post_sidebar.html" class="read-more">read more</a></div>
-                                                    <div class="pull-right"><i class="fa fa-forward post-format"></i></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> <!-- END Blog Item -->
-                                    <div class="col-sm-6 col-md-4 el">
-                                        <div class="blog-item">
-                                            <div class="blog-image">
-                                                <img src="images/demo/p02.jpg" alt="blog post">
-                                            </div>
-                                            <div class="blog-caption">
-                                                <h3 class="post-title">Upside Down</h3>
-                                                <div class="sub-post-title">
-                                                    <span>by <a href="#">John Doe</a></span> <span class="separator"> / </span> <span>15 March, 2015</span>
-                                                </div>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, ipsum, optio, impedit, adipisci quis sare recusandae nostrum laboriosam mollitia dolorem!</p>
-                                                <div class="clearfix">
-                                                    <div class="pull-left"><a href="blog_post_sidebar.html" class="read-more">read more</a></div>
-                                                    <div class="pull-right"><i class="fa fa-camera post-format"></i></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> <!-- END Blog Item -->
-                                </div>
-                            </div> <!-- END portfolio Container -->
-                        </div> <!-- END Portfolio Isotope -->
-
-                        <div class="mb20"></div>
-                        <ul class="pagination pagination-2 dark">
-                            <li class="disabled"><a href="#"><i class="fa fa-chevron-left"></i></a></li>
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#"><i class="fa fa-chevron-right"></i></a></li>
-                        </ul>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <article class="blog-post-content">
+                                    <br><br><br><br><i>Coming Soon..</i><br><br><br><br><br><br>
+                                </article>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section> <!-- END Blog Page-->
+        </section>
         <?php include('components/footer.php') ?>
     </div> <!-- END Global Wrapper -->
     <?php include('components/scripts.php') ?>
