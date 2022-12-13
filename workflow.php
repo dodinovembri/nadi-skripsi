@@ -45,6 +45,7 @@
                                         <li>Setelah itu akan diberikan <b>url staging</b>/ test terkait program yang dikerjakan. Akses git jika ingin berkolaborasi dalam pengerjaan. Drive jika file yang tidak bisa diakses melalui browser.</li>
                                         <li>Setelah itu bisa dilakukan <b>pengecekan</b> pada <b>program</b> yang telah dikerjakan, jika ada yang belum sesuai bisa langsung dikabari agar segera di revisi.</li>
                                         <li>Jika semua sudah selesai, segera lakukan <b>pelunasan</b> agar program yang sudah dikerjakan bisa <b>diberikan</b> dan bisa di install di local komputermu.</li>
+                                        <li>Apabila kamu kurang paham dengan kodingannya, maka bisa dijadwalkan untuk <b>zoom</b> penjelasan dari programnya. Atau bisa juga nanti <b>dibuatkan video</b> penjelasan dari kodingannya, dan akan <b>dishare</b> ke kamu.</li>
                                         <li>Jika selanjutnya ada revisi, tinggal langsung dikabari setelah itu akan <b>segera</b> dilakukan perubahan dan akan diberikan kepadamu kembali.</li>
                                         <li><b>Revisi</b> ini akan dilakukan sampai <b>skripsimu selesai</b> asalkan revisi masih dalam scope pembahasan program awal/ tidak ganti algoritma perhitungan.</li>
                                     </ul>
