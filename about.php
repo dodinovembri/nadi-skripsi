@@ -47,10 +47,10 @@
                         <div class="row">
                             <div class="col-sm-5 col-md-7">
                                 <ul class="sidebar-socials">
-                                    <li><a href="#"><i class="fa fa-twitter"></i> Follow us</a> <span>455 followers</span></li>
-                                    <li><a href="#"><i class="fa fa-facebook"></i> Like us</a> <span>505 likes</span></li>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> Subscribe</a> <span>250 subscribers</span></li>
-                                    <li><a href="https://dodinovembri.my.id" target="_blank"><i class="fa fa-globe"></i> Website</a> <span>My Resume</span></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i> Follow us</a></li>
+                                    <li><a href="#"><i class="fa fa-facebook"></i> Like us</a></li>
+                                    <li><a href="#"><i class="fa fa-envelope"></i> Subscribe</a></li>
+                                    <li><a href="https://dodinovembri.my.id" target="_blank"><i class="fa fa-globe"></i> My Website Profile</a></li>
                                 </ul>
                             </div>
                         </div>
