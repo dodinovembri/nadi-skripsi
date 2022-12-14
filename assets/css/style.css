@@ -252,42 +252,13 @@
 	}
 
 	/* Background images path */
-	.bg01 { background-image:url('../images/demo/bg01.jpg'); }
-	.bg02 { background-image:url('../images/demo/bg02.jpg'); }
-	.bg03 { background-image:url('../images/demo/bg03.jpg'); }
-	.bg04 { background-image:url('../images/demo/bg04.jpg'); }
-	.bg05 { background-image:url('../images/demo/bg05.jpg'); }
-	.bg06 { background-image:url('../images/demo/bg06.jpg'); }
-	.bg07 { background-image:url('../images/demo/bg07.jpg'); }
-	.bg08 { background-image:url('../images/demo/bg08.jpg'); }
-	.bg09 { background-image:url('../images/demo/bg09.jpg'); }
-	.bg10 { background-image:url('../images/demo/bg10.jpg'); }
 	.bg11 { background-image:url('../images/demo/bg11.jpg'); }
-	.bg12 { background-image:url('../images/demo/bg12.jpg'); }
-	.bg13 { background-image:url('../images/demo/bg13.jpg'); }
-	.bg14 { background-image:url('../images/demo/bg14.jpg'); }
-	.bg15 { background-image:url('../images/demo/bg15.jpg'); }
-	.bg16 { background-image:url('../images/demo/bg16.jpg'); }
-	.bg17 { background-image:url('../images/demo/bg17.jpg'); }
-	.bg18 { background-image:url('../images/demo/bg18.jpg'); }
-	.bg19 { background-image:url('../images/demo/bg19.jpg'); }
-
-
-	.bg-team1 { background-image:url('../images/demo/team1.jpg'); }
-	.bg-team2 { background-image:url('../images/demo/team2.jpg'); }
-	.bg-team3 { background-image:url('../images/demo/team3.jpg'); }
-	.bg-team4 { background-image:url('../images/demo/team4.jpg'); }
-	.bg-team5 { background-image:url('../images/demo/team5.jpg'); }
-	.bg-team6 { background-image:url('../images/demo/team6.jpg'); }
-
-
 
 	/* Background Patterns */
 	.bg-pattern {
 		background-position:left top;
 		background-repeat:repeat;
 	}
-	.bg30 { background-image: url('../images/patterns/19.png'); }
 
 
 	/* Background layer */
