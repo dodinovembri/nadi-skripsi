@@ -39,9 +39,9 @@
                         <div class="row">
                             <div class="col-sm-5 col-md-7">
                                 <ul class="sidebar-socials">
-                                    <li><a href="#"><i class="fa fa-twitter"></i> Follow us</a></li>
-                                    <li><a href="#"><i class="fa fa-facebook"></i> Like us</a></li>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> Subscribe</a></li>
+                                    <li><a href="tel:+6282183599197"><i class="fa fa-phone"></i> +62 821 8359 9197</a></li>
+                                    <li><a href="mailto:dodinovembri32@gmail.com"><i class="fa fa-envelope"></i> dodinovembri32@gmail.com</a></li>
+                                    <li><a href="https://www.linkedin.com/in/dodinovembri" target="_blank"><i class="fa fa-linkedin"></i> Connect</a></li>
                                     <li><a href="https://dodinovembri.my.id" target="_blank"><i class="fa fa-globe"></i> My Website Profile</a></li>
                                 </ul>
                             </div>
