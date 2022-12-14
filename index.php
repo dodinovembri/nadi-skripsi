@@ -43,7 +43,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_piechart"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Pengerjaan Cepat</h3>
-								<p class="mb10">Jangan cemas, dengan pengalaman yang sudah diperoleh, sudah biasa melakukan pengerjaan secara cepat. Sesuai kesepakatan.</p>
+								<p class="mb10" style="text-align: justify;">Jangan cemas, dengan pengalaman yang sudah diperoleh, sudah biasa melakukan pengerjaan secara cepat. Sesuai kesepakatan.</p>
 							</div>
 						</div>
 						<div class="mb50"></div>
@@ -51,7 +51,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_lifesaver"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Pantau Progress Secara Online</h3>
-								<p class="mb10">Progress pengerjaan bisa selalu kamu lihat secara online, jadi setiap hari kamu selalu bisa lihat dan pelajari.</p>
+								<p class="mb10" style="text-align: justify;">Progress pengerjaan bisa selalu kamu lihat secara online, jadi setiap hari kamu selalu bisa lihat dan pelajari.</p>
 							</div>
 						</div>
 					</div>
@@ -60,7 +60,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_box-checked"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Revisi Sampai Kelar</h3>
-								<p class="mb10">Kamu bakal dapat bimbingan sepuasnya sampai urusan revisi hingga kelar dan kamu ga bakal berhadapan dengan revisi lagi.</p>
+								<p class="mb10" style="text-align: justify;">Kamu bakal dapat bimbingan sepuasnya sampai urusan revisi hingga kelar dan kamu ga bakal berhadapan dengan revisi lagi.</p>
 							</div>
 						</div>
 						<div class="mb50"></div>
@@ -68,7 +68,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_lightbulb_alt"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Programmer Berpengalaman</h3>
-								<p class="mb10">Telah melalui uji klinis akan segala rintangan, cobaan, hingga kerumitan skripsi program.</p>
+								<p class="mb10" style="text-align: justify;">Telah melalui uji klinis akan segala rintangan, cobaan, hingga kerumitan skripsi program.</p>
 							</div>
 						</div>
 					</div>

@@ -33,8 +33,8 @@
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-5">
-                        <h3 class="title-small br-bottom">Contact us</h3>
-                        <p class="mb40">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam quasi modi delectus aliquid doloribus. Accusantium iste earum saepe provident sapiente fugit, vel perspiciatis harum, tempore id, porro sequi aliquid.</p>
+                        <h3 class="title-small br-bottom">About</h3>
+                        <p class="mb40" style="text-align: justify;">Skripsi Program merupakan jasa dalam pengerjaan program pada sebuah skripsi. Tidak hanya mengerjakan, pada Skripsi Program nanti juga akan diajarkan terkait program yang sedang dibuat sehingga bisa memperlancar kamu dalam urusan skripsi.</p>
                         <h3 class="title-small br-bottom">Get social</h3>
                         <div class="row">
                             <div class="col-sm-5 col-md-7">
