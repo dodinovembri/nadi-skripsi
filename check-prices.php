@@ -9,7 +9,10 @@
     <meta name="author" content="dodinovembri">
     <meta name="description" content="Jasa Pembuatan Skripsi Program">
     <meta name="keywords" content="Decision Support System, Knowledge Management System, Data Mining System, Customer Relationship Management, Ecommerce System, Material Requirement Planning" />
-    <?php include('components/stylesheets.php') ?>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700' rel='stylesheet'>
+    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="./assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -52,7 +55,9 @@
         </section>
         <?php include('components/footer.php') ?>
     </div> <!-- END Global Wrapper -->
-    <?php include('components/scripts.php') ?>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="./assets/js/script.js"></script>
 </body>
 
 </html>
