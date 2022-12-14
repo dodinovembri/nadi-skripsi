@@ -8,11 +8,8 @@
                 <div class="col-sm-12 col-md-10">
                     <nav class="navbar-right">
                         <ul class="menu">
-                            <!-- Toggle Menu - For Mobile Devices -->
                             <li class="toggle-menu"><i class="fa icon_menu"></i></li>
-                            <li class="first">
-                                <a href="/">Home</a>
-                            </li>
+                            <li class="first"> <a href="/">Home</a></li>
                             <li>
                                 <a href="#">Topics</a>
                                 <ul class="submenu">
@@ -23,7 +20,7 @@
                                     <li><a href="ecommerce-system">Ecommerce System</a></li>
                                     <li><a href="material-requirement-planning">Material Requirement Planning</a></li>
                                 </ul>
-                            </li> <!-- END Features -->
+                            </li>
                             <li>
                                 <a href="#">Algorithms</a>
                                 <ul class="submenu">
@@ -36,23 +33,15 @@
                                     <li><a href="topsis">TOPSIS</a></li>
                                     <li><a href="weighted-moving-average">Weighted Moving Average</a></li>
                                 </ul>
-                            </li> <!-- END Pages -->
-                            <li>
-                                <a href="check-prices">Check Prices</a>
                             </li>
-                            <li>
-                                <a href="workflow">Workflow</a>
-                            </li> <!-- END Blog -->
-                            <li>
-                                <a href="blogs">Blogs</a>
-                            </li> <!-- END Blog -->
-                            <li class="last">
-                                <a href="about">About</a>
-                            </li> <!-- END Blog -->
+                            <li><a href="check-prices">Check Prices</a></li>
+                            <li><a href="workflow">Workflow</a></li>
+                            <li><a href="blogs">Blogs</a></li>
+                            <li class="last"><a href="about">About</a></li>
                         </ul>
                     </nav>
                 </div>
             </div>
-        </div> <!-- END Container -->
-    </div> <!-- END Main-Header -->
-</header> <!-- END Header -->
+        </div>
+    </div>
+</header>
