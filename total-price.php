@@ -44,9 +44,10 @@
                                     $laravel = isset($_POST['laravel']) ? 200000 : 0;
                                     $codeigniter = isset($_POST['codeigniter']) ? 250000 : 0;
                                     $native = isset($_POST['native']) ? 350000 : 0;
-                                    $python = isset($_POST['python']) ? 200000 : 0;
+                                    $python = isset($_POST['python']) ? 300000 : 0;
+                                    $nextjs = isset($_POST['nextjs']) ? 500000 : 0;
 
-                                    $total_stack = $laravel + $codeigniter + $native + $python;
+                                    $total_stack = $laravel + $codeigniter + $native + $python + $nextjs;
                                     
                                     // get total web + algorihtm
                                     $total_algorithm = empty($_POST['algorithm']) ? 0 : count($_POST['algorithm']);

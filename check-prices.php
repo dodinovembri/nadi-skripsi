@@ -26,29 +26,64 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <form method="post" action="total-price">
-									<h4><u>Silahkan pilih fitur yang diinginkan.</u></h4>
-									<input style="margin-left: 25px;" type="checkbox" name="webadmin" value="1"> Halaman Web Admin (Menggunakan Template) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="webuser" value="1"> Halaman Web User/ Non-Admin (Menggunakan Template) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="laravel" value="1"> Bahasa PHP (Framework Laravel) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="codeigniter" value="1"> Bahasa PHP (Framework Codeigniter) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="native" value="1"> Bahasa PHP (No Framework/ Native) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="python" value="1"> Bahasa Python (No Framework/ Native) <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="k-means"> Algoritma K-means <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="neural-network"> Algoritma Backpropagation <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="service-quality"> Algoritma Service Quality <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Product <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma SMARTER <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma TOPSIS <br>
-									<input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> Algoritma Weighted Moving Average <br>
+                        <form method="post" action="total-price">
+                            <div class="row">
+                                <h4><u>Silahkan pilih fitur yang diinginkan.</u></h4>
+                                <div class="col-sm-12">
+                                    <input style="margin-left: 25px;" type="checkbox" name="webadmin" value="1"> Interface - Admin (Menggunakan Template) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="webuser" value="1"> Interface - User/ Non-Admin (Menggunakan Template) <br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="laravel" value="1"> Bahasa - PHP (Framework Laravel) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="codeigniter" value="1"> Bahasa - PHP (Framework Codeigniter) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="native" value="1"> Bahasa - PHP (No Framework/ Native) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="python" value="1"> Bahasa - Python (No Framework/ Native) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="nextjs" value="1"> Bahasa - React Js (Framework Next Js) <br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="ecommerce"> Web - Ecommerce <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="pos"> Web - Penjualan (POS) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="landing-page"> Web - Profile/ Landing Page<br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="alternate-hungarian"> SPK - Simple Additive Weighting Method (SAW Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="weighted-product"> SPK - Weighted Product Method (WP Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="topsis"> SPK - Technique for Order by Similarity to Ideal Solution Method (TOPSIS Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="ahp"> SPK - Analytic Hierarchy Process Method (AHP Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="moora"> SPK - Multi-Objective Optimization on the basis of Ratio Analysis (MOORA Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="aras"> SPK - A New Additive Ratio Assessment (ARAS)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="edas"> SPK - EDAS Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="psi"> SPK - Preference Selection Index (PSI) Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="mabac"> SPK - Multi-Attributive Border Approximation area Comparison (MABAC Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="copras"> SPK - COmplex PRoportional ASsessment (COPRAS Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="smart"> SPK - Simple Multi Attribute Rating Technique Method (SMART Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="pm"> SPK - Profile Matching Method (PM Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="entropy"> SPK - Metode Entropy<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="electre"> SPK - ELECTRE Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="promothee"> SPK - PROMETHEE Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="dematel"> SPK - DEMATEL METHOD<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="uta"> SPK - Utilities Theory Additives Method (UTA Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="maut"> SPK - Multi Attribute Utility Theory (MAUT)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="taguchi"> SPK - TAGUCHI<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="viktor"> SPK - VIKOR Method (VIšekriterijumsko KOmpromisno Rangiranje Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="cocoso"> SPK - Combined Compromise Solution (CoCoSo) Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="wisp"> SPK - Simple Weighted Sum Product Method - WISP<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="swara"> SPK - Step-wise Weight Assessment Ratio Analysis Method (SWARA Method)<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="gada"> SPK - Grey Absolute Decision Analysis (GADA) Method<br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="alternate-hungarian"> SPK - Alternate Hungarian <br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="k-means"> Data Mining - K-means <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="backpropagation"> Data Mining - Backpropagation <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="wma"> Data Mining - Weighted Moving Average <br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="service-quality"> CRM - Service Quality <br>
+                                    <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="boyer-moore"> KMS - Boyer Moore <br>
+                                </div>
+                                <div class="col-sm-6">
 
-									<br><button type="submit">Check Price</button>
-								</form>
+
+                                </div>
                             </div>
-                        </div>
+                            <br><button type="submit">Check Price</button>
+                        </form>
                     </div>
                 </div>
             </div>
