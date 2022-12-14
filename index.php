@@ -68,7 +68,7 @@
 							<div class="box-left"><i class="fa fa-style1 icon_lightbulb_alt"></i></div>
 							<div class="box-right">
 								<h3 class="title-small">Programmer Berpengalaman</h3>
-								<p class="mb10" style="text-align: justify;">Telah melalui uji klinis akan segala rintangan, cobaan, hingga kerumitan skripsi program.</p>
+								<p class="mb10" style="text-align: justify;">Telah melalui berbagai macam rintangan dan kasus-kasus unik serta kerumitan pada saat mengerjakan skripsi program.</p>
 							</div>
 						</div>
 					</div>
