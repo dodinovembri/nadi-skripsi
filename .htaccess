@@ -3,8 +3,4 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php
-
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} ^(www\.)?sistemskripsi\.my.id$ [NC]
-RewriteRule ^(.*)$ https://www.sistemskripsi.my.id/$1 [L,R=301]
 </IfModule>
