@@ -28,7 +28,7 @@
                     <div class="col-sm-12">
                         <form method="post" action="total-price">
                             <div class="row">
-                                <h4><u>Silahkan pilih fitur yang diinginkan.</u></h4>
+                                <h4 style="margin-left: 25px;"><u>Silahkan pilih fitur yang diinginkan.</u></h4>
                                 <div class="col-sm-12">
                                     <input style="margin-left: 25px;" type="checkbox" name="webadmin" value="1"> Interface - Admin (Menggunakan Template) <br>
                                     <input style="margin-left: 25px;" type="checkbox" name="webuser" value="1"> Interface - User/ Non-Admin (Menggunakan Template) <br>
