@@ -68,6 +68,15 @@
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="swara"> SPK - Step-wise Weight Assessment Ratio Analysis Method (SWARA Method)<br>
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="gada"> SPK - Grey Absolute Decision Analysis (GADA) Method<br>
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="alternate-hungarian"> SPK - Alternate Hungarian <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="waspas"> SPK - Weight Aggregated Sum Product Assesment (WASPAS) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="fuzzy-logic"> SPK - Fuzzy Logic <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="oreste"> SPK - Organization, Rangement Et Synthese De Donnes Relationnelles (ORESTE) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="sistem-pakar"> SPK - Sistem Pakar <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="regresi-linear"> SPK - Regresi Linier <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="bc-ratio"> SPK - B/C Ratio <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="irr"> SPK - Internal Rate of Return (IRR) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="npv"> SPK - Net Present Value (NPV) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="fmadm"> SPK - Fuzzy Multiple Atribut Decision Making (FMADM) <br>
                                     <br>
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="k-means"> Data Mining - K-means <br>
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="backpropagation"> Data Mining - Backpropagation <br>
