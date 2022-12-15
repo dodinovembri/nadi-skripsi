@@ -28,7 +28,7 @@
                     <div class="col-sm-12 col-md-7 sm-box3">
                         <div class="row col-p0">
                             <div class="col-sm-12">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.536792911367!2d106.76154811430995!3d-6.192673962393819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f71bec3fd2d9%3A0xf7ae320e9d457a91!2sJl.%20Melati%20No.21C%2C%20RT.13%2FRW.10%2C%20Kb.%20Jeruk%2C%20Kec.%20Kb.%20Jeruk%2C%20Kota%20Jakarta%20Barat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2011530!5e0!3m2!1sen!2sid!4v1670914865971!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.536792911367!2d106.76154811430995!3d-6.192673962393819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f71bec3fd2d9%3A0xf7ae320e9d457a91!2sJl.%20Melati%20No.21C%2C%20RT.13%2FRW.10%2C%20Kb.%20Jeruk%2C%20Kec.%20Kb.%20Jeruk%2C%20Kota%20Jakarta%20Barat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2011530!5e0!3m2!1sen!2sid!4v1670914865971!5m2!1sen!2sid" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
     </div> <!-- END Global Wrapper -->
     <script src="./assets/js/jquery.min.js"></script>
     <script src="./assets/js/bootstrap.min.js"></script>
-    <script src="./assets/js/script.js"></script>
+    <script src="./assets/js/script.min.js"></script>
 </body>
 
 </html>
