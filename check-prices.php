@@ -94,7 +94,7 @@
 
                                 </div>
                             </div>
-                            <br><button type="submit">Check Price</button>
+                            <br><button type="submit" class="btn btn-primary">Check Price</button>
                         </form>
                     </div>
                 </div>
