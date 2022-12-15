@@ -85,6 +85,9 @@
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="service-quality"> CRM - Service Quality <br>
                                     <br>
                                     <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="boyer-moore"> KMS - Boyer Moore <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="boyer-moore"> KMS - String Matching <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="boyer-moore"> KMS - Case Based Reasoning (CBR) <br>
+                                    <input style="margin-left: 25px;" type="checkbox" name="algorithm[]" value="boyer-moore"> KMS - Fuzzy Case Based Reasoning (FCBR) <br>
                                 </div>
                                 <div class="col-sm-6">
 

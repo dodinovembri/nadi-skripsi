@@ -84,6 +84,7 @@
                                 <br>
                                 <h3 class="title-small br-bottom">Knowledge Management System (KMS)</h3>
                                 <ul>
+                                    <li><a href="material-requirement-planning">KMS - Boyer Moore</a></li>
                                     <li><a href="material-requirement-planning">KMS - String Matching</a></li>
                                     <li><a href="material-requirement-planning">KMS - Case Based Reasoning (CBR)</a></li>
                                     <li><a href="material-requirement-planning">KMS - Fuzzy Case Based Reasoning (FCBR)</a></li>
