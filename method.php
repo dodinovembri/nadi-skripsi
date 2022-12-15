@@ -44,7 +44,7 @@
                     <div class="col-sm-8 col-md-9 space-left">
                         <div class="row">
                             <div class="col-sm-12">
-                                <h3 class="title-small br-bottom">Decision Support System</h3>
+                                <h3 class="title-small br-bottom">Decision Support System (DSS)</h3>
                                 <ul>
                                     <li><a href="material-requirement-planning">SPK - Simple Additive Weighting Method (SAW Method)</a></li>
                                     <li><a href="material-requirement-planning">SPK - Weighted Product Method (WP Method)</a></li>
@@ -80,6 +80,13 @@
                                     <li><a href="material-requirement-planning">SPK - Internal Rate of Return (IRR)</a></li>
                                     <li><a href="material-requirement-planning">SPK - Net Present Value (NPV)</a></li>
                                     <li><a href="material-requirement-planning">SPK - Fuzzy Multiple Atribut Decision Making (FMADM)</a></li>                                
+                                </ul>
+                                <br>
+                                <h3 class="title-small br-bottom">Knowledge Management System (KMS)</h3>
+                                <ul>
+                                    <li><a href="material-requirement-planning">KMS - String Matching</a></li>
+                                    <li><a href="material-requirement-planning">KMS - Case Based Reasoning (CBR)</a></li>
+                                    <li><a href="material-requirement-planning">KMS - Fuzzy Case Based Reasoning (FCBR)</a></li>
                                 </ul>
                             </div>
                         </div>

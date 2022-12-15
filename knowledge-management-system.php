@@ -22,15 +22,34 @@
     <!-- Global Wrapper -->
     <div id="wrapper">
         <?php include('components/header.php') ?>
-        <section class="section mt30">
+
+        <section class="section-page mb10">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
+                    <div class="col-sm-4 col-md-3">
+                        <aside class="sidebar-nav">
+                            <nav class="navigation-sidebar">
+                                <ul class="unstyled-list">
+                                    <li><a href="method">Show All</a></li>
+                                    <li><a href="decision-support-system">Decision Support System</a></li>
+                                    <li class="active"><a href="knowledge-management-system">Knowledge Management System</a></li>
+                                    <li><a href="data-mining-system">Data Mining System</a></li>
+                                    <li><a href="customer-relationship-management">Customer Relationship Management</a></li>
+                                    <li><a href="ecommerce-system">Ecommerce System</a></li>
+                                    <li><a href="material-requirement-planning">Material Requirement Planning</a></li>
+                                </ul>
+                            </nav>
+                        </aside>
+                    </div>
+                    <div class="col-sm-8 col-md-9 space-left">
                         <div class="row">
                             <div class="col-sm-12">
-                                <article class="blog-post-content">
-                                    <br><br><br><br><i>Coming Soon..</i><br><br><br><br><br><br>
-                                </article>
+                                <h3 class="title-small br-bottom">Knowledge Management System (KMS)</h3>
+                                <ul>
+                                    <li><a href="material-requirement-planning">KMS - String Matching</a></li>
+                                    <li><a href="material-requirement-planning">KMS - Case Based Reasoning (CBR)</a></li>
+                                    <li><a href="material-requirement-planning">KMS - Fuzzy Case Based Reasoning (FCBR)</a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>

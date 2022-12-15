@@ -43,6 +43,7 @@
                                     <li><a href="mailto:dodinovembri32@gmail.com"><i class="fa fa-envelope"></i> dodinovembri32@gmail.com</a></li>
                                     <li><a href="https://www.linkedin.com/in/dodinovembri" target="_blank"><i class="fa fa-linkedin"></i> Connect</a></li>
                                     <li><a href="https://dodinovembri.my.id" target="_blank"><i class="fa fa-globe"></i> My Website Profile</a></li>
+                                    <li><a href="https://wa.me/+6282183599197?text=Hallo kak..%20Kak%20saya%20ingin%20tanya-tanya%20mengenai%20Skripsi%20Program.." target="_blank"><i class="fa fa-flash"></i> Order Now</a></li>
                                 </ul>
                             </div>
                         </div>
