@@ -6,9 +6,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Skripsi Program | Nadi Skripsi</title>
-	<meta name="author" content="dodinovembri">
-	<meta name="description" content="Jasa Pembuatan Skripsi Program">
-	<meta name="keywords" content="Decision Support System, Knowledge Management System, Data Mining System, Customer Relationship Management, Ecommerce System, Material Requirement Planning" />
+    <!-- meta tag adjustable -->
+    <meta name="title" content="Skripsi Program | Nadi Skripsi">
+    <meta name="description" content="Skripsi Program merupakan jasa dalam pengerjaan dan bimbingan program pada sebuah skripsi.">
+    <meta name="keywords" content="Decision Support System, SPK, Knowledge Management System, KMS, Data Mining, Customer Relationship Management, CRM, Supply Chain Management, SCM, Ecommerce System, Material Requirement Planning, MRP" />
+    <meta name="robots" content="index, follow">
+    <!-- css & fonts -->	
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700' rel='stylesheet'>
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="./assets/css/font-awesome.min.css" rel="stylesheet">
