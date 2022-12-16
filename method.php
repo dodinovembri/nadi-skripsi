@@ -79,7 +79,9 @@
                                     <li><a href="bc-ratio">SPK - B/C Ratio</a></li>
                                     <li><a href="irr">SPK - Internal Rate of Return (IRR)</a></li>
                                     <li><a href="npv">SPK - Net Present Value (NPV)</a></li>
-                                    <li><a href="fmadm">SPK - Fuzzy Multiple Atribut Decision Making (FMADM)</a></li>                                
+                                    <li><a href="fmadm">SPK - Fuzzy Multiple Atribut Decision Making (FMADM)</a></li>   
+                                    <li><a href="fmadm">SPK - Metode Simple Atribute Rating Technique Exploiting Ranks (Smarter)</a></li>
+                                    <li><a href="fmadm">SPK - Algoritma Rivest-Shamir-Adleman (Rsa)</a></li>
                                 </ul>
                                 <br>
                                 <h3 class="title-small br-bottom">Knowledge Management System (KMS)</h3>
@@ -88,6 +90,29 @@
                                     <li><a href="string-matching">KMS - String Matching</a></li>
                                     <li><a href="cbr">KMS - Case Based Reasoning (CBR)</a></li>
                                     <li><a href="fcbr">KMS - Fuzzy Case Based Reasoning (FCBR)</a></li>
+                                    <li><a href="fcbr">KMS - Seci Model</a></li>
+                                    <li><a href="fcbr">KMS - Gamification</a></li>
+                                    <li><a href="fcbr">KMS - Becerra Fernandez</a></li>
+                                    
+                                </ul>
+                                <br>
+                                <h3 class="title-small br-bottom">Data Mining (DM)</h3>
+                                <ul>
+                                    <li><a href="boyer-moore">DM - Text Classification</a></li>
+                                    <li><a href="string-matching">DM - Naive Bayes</a></li>
+                                    <li><a href="cbr">DM - Classification In Accurate Fraud Transcation Classification</a></li>
+                                    <li><a href="cbr">DM - Neural Network Backpropagation</a></li>
+                                    <li><a href="cbr">DM - K-Means Clustering</a></li>
+                                </ul>
+                                <h3 class="title-small br-bottom">Customer Relationship Management (CRM)</h3>
+                                <ul>
+                                    <li><a href="boyer-moore">CRM - Metode LibQual</a></li>
+                                    <li><a href="string-matching">CRM - Service Quality</a></li>
+                                    <li><a href="cbr">CRM - SMS Gateway</a></li>
+                                </ul>
+                                <h3 class="title-small br-bottom">Supply Chain Management (SCM)</h3>
+                                <ul>
+                                    <li><a href="boyer-moore">CRM - Supply Chain Operations Reference (Scor)</a></li>
                                 </ul>
                             </div>
                         </div>
