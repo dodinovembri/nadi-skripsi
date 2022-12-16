@@ -28,7 +28,7 @@
                     <div class="col-sm-12 col-md-7 sm-box3">
                         <div class="row col-p0">
                             <div class="col-sm-12">
-                                
+                                <a href="https://www.google.com/maps/dir//Jl.+Melati+No.21C+RT.13%2FRW.10,+Kb.+Jeruk+Kec.+Kb.+Jeruk+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11530/@-6.1926793,106.7637368,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x2e69f71bec3fd2d9:0xf7ae320e9d457a91!2m2!1d106.7637368!2d-6.1926793" target="_blank"><img src="./assets/images/maps.png" alt="Blog post Image"></a>
                             </div>
                         </div>
                     </div>
