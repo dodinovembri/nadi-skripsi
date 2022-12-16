@@ -5,10 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Skripsi Program | Nadi Skripsi</title>
+    <title>Contoh Perhitungan SPK Metode Simple Additive Weighting (SAW) | Nadi Skripsi</title>
     <meta name="author" content="dodinovembri">
-    <meta name="description" content="Jasa Pembuatan Skripsi Program">
-    <meta name="keywords" content="Decision Support System, Knowledge Management System, Data Mining System, Customer Relationship Management, Ecommerce System, Material Requirement Planning" />
+    <!-- meta tag adjustable -->
+    <meta name="title" content="Contoh Perhitungan SPK Metode Simple Additive Weighting (SAW)">
+    <meta name="description" content="Contoh perhitungan dan langkah-langkah SPK metode Simple Additive Weighting (SAW) serta implementasinya menggunakan bahasa pemrograman">
+    <meta name="keywords" content="SPK, Decision Support System, Simple Additive Weighting, SAW, Langkah-langkah, Implementasi, Pemrograman" />
+    <meta name="robots" content="index, follow">
+    <!-- css & fonts -->
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,600,700,900,400italic|Montserrat:400,700' rel='stylesheet'>
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="./assets/css/font-awesome.min.css" rel="stylesheet">

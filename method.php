@@ -46,7 +46,7 @@
                             <div class="col-sm-12">
                                 <h3 class="title-small br-bottom">Decision Support System (DSS)</h3>
                                 <ul>
-                                    <li><a href="saw">SPK - Simple Additive Weighting Method (SAW Method)</a></li>
+                                    <li><a href="contoh-perhitungan-spk-metode-simple-additive-weighting-saw">SPK - Simple Additive Weighting Method (SAW Method)</a></li>
                                     <li><a href="wp">SPK - Weighted Product Method (WP Method)</a></li>
                                     <li><a href="topsis">SPK - Technique for Order by Similarity to Ideal Solution Method (TOPSIS Method)</a></li>
                                     <li><a href="ahp">SPK - Analytic Hierarchy Process Method (AHP Method)</a></li>
