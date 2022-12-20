@@ -115,7 +115,7 @@
                                     <li><a href="string-matching">DM - Naive Bayes</a></li>
                                     <li><a href="cbr">DM - Classification In Accurate Fraud Transcation Classification</a></li>
                                     <li><a href="cbr">DM - Neural Network Backpropagation</a></li>
-                                    <li><a href="cbr">DM - K-Means Clustering</a></li>
+                                    <li><a href="contoh-perhitungan-data-mining-metode-kmeans-clustering">DM - K-Means Clustering</a></li>
                                     <li><a href="cbr">DM - Fuzzy C-Means</a></li>
                                     <li><a href="cbr">DM - Hybrid Fuzzy C-Means Particle Swarm Optimization</a></li>
                                     <li><a href="cbr">DM - C4.5</a></li>
