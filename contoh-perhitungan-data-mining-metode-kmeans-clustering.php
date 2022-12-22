@@ -34,7 +34,8 @@
                             <div class="col-sm-12">
                                 <article class="blog-post-content">
                                     <h3 class="blog-post-title br-bottom">Perhitungan K-Means</h3>
-                                    <a href="./assets/documents/contoh-perhitungan-data-mining-metode-kmeans-clustering.xlsx"><button class="btn btn-primary">Download Xls File</button></a>
+                                    <!-- <a href="./assets/documents/contoh-perhitungan-data-mining-metode-kmeans-clustering.xlsx"><button class="btn btn-primary">Download Xls File</button></a> -->
+                                    <button class="btn btn-primary">Download Xls File</button>
                                     <p style="text-align: justify;">K-Means clustering adalah algoritma unsupervised learning yang dipakai untuk mengelompokkan dataset yang belum dilabel ke dalam kluster yang berbeda.</p>
                                     
                                     <h3 class="blog-post-title br-bottom">Perhitungan K-Means Menggunakan Program</h3>
